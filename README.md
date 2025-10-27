@@ -1,4 +1,4 @@
-🌳 **Decision Trees & Random Forests – Heart Disease Prediction**
+# **Decision Trees & Random Forests – Heart Disease Prediction**
 
 ---
 
